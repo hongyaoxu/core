@@ -8,6 +8,7 @@ Author-email: UNKNOWN
 License: Boost License 1.0
 Keywords: misc
 Requires-Dist: boost-config
+Requires-Dist: boost-cmake
 Platform: UNKNOWN
 Description: Boost.Core
        |=======
