@@ -1,0 +1,16 @@
+Metadata-Version: 1.2
+Name: boost-core
+Version: 1.41.0
+Summary: Miscellaneous stuff that escaped modularization
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: Boost License 1.0
+Keywords: misc
+Requires-Dist: boost-config
+Requires-Dist: boost-cmake
+Platform: UNKNOWN
+Description: Boost.Core
+       |=======
+       |
+       |No long description yet.
