@@ -7,8 +7,22 @@ Author: UNKNOWN
 Author-email: UNKNOWN
 License: Boost License 1.0
 Keywords: misc
-Requires-Dist: boost-config
 Requires-Dist: boost-cmake
+Requires-Dist: boost-detail
+Requires-Dist: boost-conversion
+Requires-Dist: boost-config
+Requires-Dist: boost-type_traits
+Requires-Dist: boost-property_map
+Requires-Dist: boost-utility
+Requires-Dist: boost-static_assert
+Requires-Dist: boost-concept_check
+Requires-Dist: boost-optional
+Requires-Dist: boost-serialization
+Requires-Dist: boost-iterator
+Requires-Dist: boost-mpi
+Requires-Dist: boost-unordered
+Requires-Dist: boost-graph
+Requires-Dist: boost-mpl
 Platform: UNKNOWN
 Description: Boost.Core
        |=======
